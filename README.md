@@ -3,6 +3,9 @@
 ## Overview
 MoodCompanion is a student-focused mental wellness web application that helps users track moods, access wellness tools, engage with an AI-style companion chat interface, and use stress-relief activities from a single dashboard.
 
+## Live demo
+https://mood-companion-bxyv.onrender.com
+
 The project combines:
 - SQLite database
 - HTML, CSS, and JavaScript frontend
@@ -147,10 +150,7 @@ For production:
 - Enable HTTPS
 - Add rate limiting and input validation
 ---
-##Live Demo
- 
- - https://mood-companion-bxyv.onrender.com
----
+
 
 ## Author
 Bachu Varsha
